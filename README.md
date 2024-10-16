@@ -59,7 +59,7 @@
 
 ###
 
-<p align="left">estou aprendendo</p>
+<p align="left">Estou aprendendo</p>
 
 ###
 
@@ -75,6 +75,16 @@
 
 ###
 
-<img align="right" height="161" src="https://media.giphy.com/media/tDfClZn3KzGpSL2PXk/giphy.gif?cid=790b76118mq8j7r4x62hl2if83xh6htkuj9p9nm8f4l5n85h&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<div align="center">
+  <img height="161" src="https://media.giphy.com/media/tDfClZn3KzGpSL2PXk/giphy.gif?cid=790b76118mq8j7r4x62hl2if83xh6htkuj9p9nm8f4l5n85h&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/21d3pwhsg4bvpzkq4ro2jgcuy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=21d3pwhsg4bvpzkq4ro2jgcuy&count=4&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
