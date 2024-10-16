@@ -3,13 +3,13 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=OctoDev4&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=OctoDev4&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OctoDev4&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="161" src="https://media.giphy.com/media/tDfClZn3KzGpSL2PXk/giphy.gif?cid=790b76118mq8j7r4x62hl2if83xh6htkuj9p9nm8f4l5n85h&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<p align="left">Sou especialista:</p>
 
 ###
 
@@ -53,6 +53,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="docker logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="php logo"  />
 </div>
+
+###
+
+<p align="left">estou aprendendo</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
+</div>
+
+###
+
+<img align="right" height="161" src="https://media.giphy.com/media/tDfClZn3KzGpSL2PXk/giphy.gif?cid=790b76118mq8j7r4x62hl2if83xh6htkuj9p9nm8f4l5n85h&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 ###
