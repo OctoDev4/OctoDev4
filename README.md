@@ -81,19 +81,9 @@
   <img src="https://streak-stats.demolab.com?user=OctoDev4&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=OctoDev4&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NndWpvd2E4ejJkZWxteXVnNno3ZmoyZGN5b2kxZmc4d2lwZHFpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pWhx9cyOOY70gPtntx/giphy.gif" alt="cool gif" />
+</p>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/OctoDev4/OctoDev4/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW8wbnkwc3Iwam83enY3MzA1bnQ0bzhldms5YWNrbnJjcHN4eWdreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o4FQwsg7CmI6SjE49c/giphy.gif"  />
-</div>
 
 ###
