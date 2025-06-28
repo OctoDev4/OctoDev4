@@ -64,17 +64,6 @@
 <br>
 
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/felipe-almeida-59b814260/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/806946551033102337" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="discord logo"  />
-  </a>
-</div>
-
-###
-
 <p align="left"><br>Sou um desenvolvedor fullstack curioso e criativo, sempre explorando os limites entre desenvolvimento e segurança.<br>Gosto de automatizar processos, construir ferramentas úteis e estudar sistemas a fundo — especialmente onde código encontra rede e segurança.<br><br>💻 Tecnologias e Skills<br>Linguagens:<br>TypeScript, JavaScript, PHP, Python, Shell Script<br><br>Frontend:<br>React, Vue, Next.js, Nuxt.js<br><br>Backend:<br>Fastify, Nest.js, Redis,Knext,PHP,Laravel,Express<br><br>Ferramentas:<br>🐳 Docker, 🔧 Git, 🌐 WebSocket, 🗃️ Redis, 🔍 Nmap, 📡 Wireshark, 💣 Metasploit, 🎯 SET (Social Engineering Toolkit), 🕷️ Burp Suite, ⚔️ Starkiller<br><br>Testes:<br>✅ Testes automatizados, 🛡️ Validação de rotas, 🔄 Mocking, 🔧 Testes de integração<br><br>Cyber Sec:<br>🎯 Pentest, 🔴 Red Team,  🛡️ Segurança ofensiva, 🧩 Engenharia reversa, 🤖 Automação de exploits</p>
 
 ###
@@ -86,6 +75,14 @@
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NndWpvd2E4ejJkZWxteXVnNno3ZmoyZGN5b2kxZmc4d2lwZHFpMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pWhx9cyOOY70gPtntx/giphy.gif" alt="cool gif" />
 </p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/felipe-almeida-59b814260/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/806946551033102337" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="discord logo"  />
+  </a>
+</div>
 
 
 ###
