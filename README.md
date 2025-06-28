@@ -84,12 +84,16 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/OctoDev4/OctoDev4/output/snake.svg" alt="Snake animation" />
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHFxbjAzbDg2NXZ5d2ozbmkyZTUyN3NjdXlwYzJnNnBrbDIydTB1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1UUZxXPoguNdaD6P8B/giphy.gif"  />
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW8wbnkwc3Iwam83enY3MzA1bnQ0bzhldms5YWNrbnJjcHN4eWdreSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o4FQwsg7CmI6SjE49c/giphy.gif"  />
 </div>
 
 ###
