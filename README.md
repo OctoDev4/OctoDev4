@@ -1,4 +1,4 @@
-<h1 align="center">🐙 woopxz_qaq<br>Fullstack Dev | Ethical Hacking | Código no lado sombrio da força ⚔️</h1>
+<h1 align="center">🐙 woopxz_qaq<br>Fullstack Dev | Ethical Hacking </h1>
 
 ###
 
