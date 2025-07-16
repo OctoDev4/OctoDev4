@@ -1,4 +1,4 @@
-<h1 align="center">🐙 woopxz_qaq<br>Fullstack Dev | Ethical Hacking </h1>
+<h1 align="center"><br>Fullstack Dev | Ethical Hacking </h1>
 
 ###
 
